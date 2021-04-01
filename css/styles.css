@@ -1,2 +1,49 @@
-header {background-color:#dddddd;
+header {
+    background-color:#dddddd;
+}
+#fotoBatman{
+    display:block;
+    margin:auto;
+}
+body {
+    font-family: Calibri, Arial, Helvetica, sans-serif;
+}
+h1 { 
+    background-color: #BFBFBF;
+    color: #1A4C7B ;
+    letter-spacing: 15px;
+    text-align: center;
+    text-transform: uppercase;
+    word-spacing: 40px;
+}
+section {
+    margin-left: 220px;
+    margin-right: 220px;
+    margin-top: 50px;
+    margin-bottom: 25px;
+}
+h2 {
+    background-color: #BFBFBF;
+    text-transform: uppercase;
+    color: #9E3C19;    
+    letter-spacing: 12px;
+}
+.datosPersonales{
+    text-transform: uppercase;
+}
+span {
+    font-style: italic;
+    font-weight: bold;
+}
+footer { 
+    background-color: #1F497D;
+    color: white;
+    font-size: 24px;
+    text-transform: uppercase;
+    text-align: center;
+}
+p img { 
+    margin-top: 5px;
+    width: 22px;
+    height: 22px;
 }
